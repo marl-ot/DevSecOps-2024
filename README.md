@@ -1,4 +1,4 @@
-# DevSecOps-2024, МИИГАиК
+# DevSecOps-2024, МИИГАиК + Yadro
 
 Общая задача - развернуть выданный софт из архива [source_apps](https://drive.google.com/file/d/1Y2m_csKkBdyWtI-DYaOqNG0VYa29YXT6/view?usp=sharing)
 
